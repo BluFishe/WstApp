@@ -1,8 +1,8 @@
-# app1
+# WstApp 2.0
 
-A new Flutter project.
+A new and improved Flutter-based project.
 
-## Getting Started
+WstApp is a content aggregator designed for use within HWDSB Secondary Schools. The aim of the project is to provide a centralized location for the many, often ignored, feeds of data employed by the administration.
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## The State of the Project
+
